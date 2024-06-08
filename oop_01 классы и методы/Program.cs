@@ -44,3 +44,25 @@
 //Console.WriteLine(c2.Count);
 
 
+// # 1.2.2
+
+/* 2. Создайте структуру (класс?) с именем train, содержащую поля: 
+ * название пункта назначения, 
+ * номер поезда, 
+ * время отправления. 
+ * Ввести данные в массив из пяти элементов типа train, упорядочить элементы по номерам поездов. Добавить возможность вывода информации о поезде, номер которого введён пользователем. 
+   Добавить возможность сортировки массив по пункту назначения, причём поезда с одинаковыми пунктами назначения должны быть упорядочены по времени отправления. */
+
+//Solution solution = new Solution();
+//solution.AddTrain(new Train { Destination = "Москва", Number = 3, TimeOfdeparture = DateTime.Parse("12:30") });
+//solution.AddTrain(new Train { Destination = "Москва", Number = 5, TimeOfdeparture = DateTime.Parse("11:30") });
+//solution.AddTrain(new Train { Destination = "Волгоград", Number = 6, TimeOfdeparture = DateTime.Parse("18:40") });
+//solution.AddTrain(new Train { Destination = "Москва", Number = 8, TimeOfdeparture = DateTime.Parse("9:15") });
+//solution.AddTrain(new Train { Destination = "Питер", Number = 1, TimeOfdeparture = DateTime.Parse("16:10") });
+//solution.Print();
+//Console.Write("Введите номер поезда: ");
+//int numberOfTrain = int.Parse(Console.ReadLine());
+//solution.Find(numberOfTrain).Print();
+//solution.PrintByDestination();
+
+
