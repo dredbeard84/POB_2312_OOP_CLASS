@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_01 классы и методы", "oop_01 классы и методы\oop_01 классы и методы.csproj", "{112310F8-B230-45D2-BAD3-98511BABC043}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_01 классы и объекты", "oop_01 классы и методы\oop_01 классы и объекты.csproj", "{112310F8-B230-45D2-BAD3-98511BABC043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_02", "oop_02\oop_02.csproj", "{F83885CD-E80D-4C97-BCA6-D6FA014037C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_02", "oop_02\oop_02.csproj", "{F83885CD-E80D-4C97-BCA6-D6FA014037C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
