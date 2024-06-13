@@ -27,7 +27,7 @@ namespace oop_02
         public string BossName
         {
             get
-            { 
+            {
                 return bossName;
             }
             set
