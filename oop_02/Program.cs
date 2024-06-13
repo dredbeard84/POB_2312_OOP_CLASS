@@ -15,7 +15,7 @@
  * деструктор. 
  */
 
-//using oop_02;
+using oop_02;
 
 //Console.Write("Марка авто: ");
 //string marka = Console.ReadLine()!;

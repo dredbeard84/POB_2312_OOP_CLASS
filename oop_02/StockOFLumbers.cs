@@ -11,6 +11,7 @@ namespace oop_02
         private int numberOfStock;
         private string bossName;
         private double maxLumberVolume;
+        private double current;
 
         public int NumberOfStock
         {
@@ -44,18 +45,47 @@ namespace oop_02
             }
             set
             {
-                maxLumberVolume = value;
+                if (value > 0)
+                {
+                    maxLumberVolume = value;
+                }
+                else
+                    throw new Exception("Введите правильный объём");
             }
         }
 
-        public double Input()
+        public double Current
         {
-
+            get
+            {
+                return current;
+            }
+            set
+            {
+                if (value > maxLumberVolume - current && current + value >= 0)
+                {
+                    value = maxLumberVolume;
+                }
+                else
+                    current += value;
+            }
         }
 
-        public double Output()
+        public void Add(double volume)
         {
-
+            Current = volume;
         }
+
+        public void Sub(double volume)
+        {
+            Current = -volume;
+        }
+
+        public void Print()
+        {
+            Console.WriteLine($"Можно завезти {maxLumberVolume - current:F2}. " +
+                              $"В наличие {current:F2}.");
+        }
+
     }
 }
