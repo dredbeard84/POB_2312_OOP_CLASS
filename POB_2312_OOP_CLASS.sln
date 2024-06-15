@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_01 классы и об
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_02", "oop_02\oop_02.csproj", "{F83885CD-E80D-4C97-BCA6-D6FA014037C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_03", "oop_03\oop_03.csproj", "{200F5F42-E604-4D69-8CFB-A130BB174A4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_03", "oop_03\oop_03.csproj", "{200F5F42-E604-4D69-8CFB-A130BB174A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_04 (тема 6 static)", "oop_05 (тема 6 static)\oop_04 (тема 6 static).csproj", "{AC30431A-1F0A-4EEA-9E0B-65C17A19A708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_05 (тема 7 частичные классы)", "oop_05 (тема 7 частичные классы)\oop_05 (тема 7 частичные классы).csproj", "{8E857ED5-D6F3-4176-A247-CDD1A558F22D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{200F5F42-E604-4D69-8CFB-A130BB174A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{200F5F42-E604-4D69-8CFB-A130BB174A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{200F5F42-E604-4D69-8CFB-A130BB174A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC30431A-1F0A-4EEA-9E0B-65C17A19A708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC30431A-1F0A-4EEA-9E0B-65C17A19A708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC30431A-1F0A-4EEA-9E0B-65C17A19A708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC30431A-1F0A-4EEA-9E0B-65C17A19A708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E857ED5-D6F3-4176-A247-CDD1A558F22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E857ED5-D6F3-4176-A247-CDD1A558F22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E857ED5-D6F3-4176-A247-CDD1A558F22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E857ED5-D6F3-4176-A247-CDD1A558F22D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
