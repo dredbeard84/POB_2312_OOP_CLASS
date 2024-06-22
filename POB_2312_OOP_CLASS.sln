@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_04 (тема 6 static)"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_05 (тема 7 частичные классы)", "oop_05 (тема 7 частичные классы)\oop_05 (тема 7 частичные классы).csproj", "{8E857ED5-D6F3-4176-A247-CDD1A558F22D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_L06_T08_null", "oop_L06_T08_null\oop_L06_T08_null.csproj", "{6B6EA896-ED7A-4EA1-BCEC-DB85F35DED24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_L06_T08_null", "oop_L06_T08_null\oop_L06_T08_null.csproj", "{6B6EA896-ED7A-4EA1-BCEC-DB85F35DED24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_L07_T09_наследование", "oop_L07_T09_наследование\oop_L07_T09_наследование.csproj", "{5AC72B96-E372-48C7-A4CE-B72BAD84240C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6B6EA896-ED7A-4EA1-BCEC-DB85F35DED24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B6EA896-ED7A-4EA1-BCEC-DB85F35DED24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B6EA896-ED7A-4EA1-BCEC-DB85F35DED24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC72B96-E372-48C7-A4CE-B72BAD84240C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC72B96-E372-48C7-A4CE-B72BAD84240C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC72B96-E372-48C7-A4CE-B72BAD84240C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC72B96-E372-48C7-A4CE-B72BAD84240C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
