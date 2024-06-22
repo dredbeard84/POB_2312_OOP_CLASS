@@ -164,12 +164,3 @@
 //        card.Block = true;
 //    }
 //}
-
-
-Console.Write("1: ");
-double one = double.Parse(Console.ReadLine());
-Console.Write("2: ");
-double two = double.Parse(Console.ReadLine());
-double three = one / two;
-Console.WriteLine($"{three:F2}");
-
