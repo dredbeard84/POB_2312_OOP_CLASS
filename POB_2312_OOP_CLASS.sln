@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_L07_T11_отношен�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_L08_T12_перегрузка_операций", "oop_L08_T12_перегрузка_операций\oop_L08_T12_перегрузка_операций.csproj", "{B18A18A5-D4AF-4046-9894-49490078A513}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_L08_T13_абстрактные классы", "oop_L08_T13_абстрактные классы\oop_L08_T13_абстрактные классы.csproj", "{BAE2E694-FD77-434F-8FDA-7B09A7BF32AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B18A18A5-D4AF-4046-9894-49490078A513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B18A18A5-D4AF-4046-9894-49490078A513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B18A18A5-D4AF-4046-9894-49490078A513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE2E694-FD77-434F-8FDA-7B09A7BF32AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE2E694-FD77-434F-8FDA-7B09A7BF32AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE2E694-FD77-434F-8FDA-7B09A7BF32AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE2E694-FD77-434F-8FDA-7B09A7BF32AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
