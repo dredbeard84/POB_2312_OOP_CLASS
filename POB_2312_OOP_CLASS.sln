@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_L06_T08_null", "oop_L06
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_L07_T09_наследование", "oop_L07_T09_наследование\oop_L07_T09_наследование.csproj", "{5AC72B96-E372-48C7-A4CE-B72BAD84240C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_L07_T11_отношения между классами", "oop_L07_T11_отношения между классами\oop_L07_T11_отношения между классами.csproj", "{98EDEDA1-DBBD-40CA-8C80-337899C8F5BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop_L07_T11_отношения между классами", "oop_L07_T11_отношения между классами\oop_L07_T11_отношения между классами.csproj", "{98EDEDA1-DBBD-40CA-8C80-337899C8F5BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_L08_T12_перегрузка_операций", "oop_L08_T12_перегрузка_операций\oop_L08_T12_перегрузка_операций.csproj", "{B18A18A5-D4AF-4046-9894-49490078A513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{98EDEDA1-DBBD-40CA-8C80-337899C8F5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98EDEDA1-DBBD-40CA-8C80-337899C8F5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98EDEDA1-DBBD-40CA-8C80-337899C8F5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18A18A5-D4AF-4046-9894-49490078A513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18A18A5-D4AF-4046-9894-49490078A513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18A18A5-D4AF-4046-9894-49490078A513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18A18A5-D4AF-4046-9894-49490078A513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
